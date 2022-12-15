@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lab_6</string>
+    <string name="loading_button">Load File</string>
 </resources>
