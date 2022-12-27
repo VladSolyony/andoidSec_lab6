@@ -1,4 +1,18 @@
 <resources>
-    <string name="app_name">lab_6</string>
-    <string name="loading_button">Load File</string>
+    <string name="app_name">EXIF_EDITOR</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Image picker</string>
+    <string name="second_fragment_label">EXIF tags editor</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="image_selection">Pick image</string>
+    <string name="edit">Edit EXIF tags</string>
+    <string name="creation_date">Date of creation</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="creation_device">Created on device</string>
+    <string name="model_creation_device">Device model</string>
+    <string name="todo">TODO</string>
+    <string name="save">Save</string>
 </resources>
